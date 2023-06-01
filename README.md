@@ -1,4 +1,4 @@
 # hms
 Hospital Management System 
-Develop with Nodejs
+Develop with ejs and express Nodejs
 
